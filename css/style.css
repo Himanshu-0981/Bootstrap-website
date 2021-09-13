@@ -1,0 +1,11 @@
+/* For removing vertical slide */
+
+/* body {
+    overflow-y:unset;
+  } */
+
+.navbar-dark .navbar-nav .nav-link {
+    color: rgb(255 255 255) !important ;
+    box-shadow: none;
+    font-weight: 400px;
+}
